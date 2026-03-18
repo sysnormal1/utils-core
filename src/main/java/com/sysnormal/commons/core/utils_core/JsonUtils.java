@@ -1,6 +1,5 @@
-package com.sysnormal.libs.utils;
+package com.sysnormal.commons.core.utils_core;
 
-import com.sysnormal.libs.utils.database.DatabaseUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import tools.jackson.databind.JsonNode;

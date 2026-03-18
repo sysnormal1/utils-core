@@ -1,4 +1,4 @@
-package com.sysnormal.libs.utils;
+package com.sysnormal.commons.core.utils_core;
 
 import java.math.BigDecimal;
 

@@ -1,4 +1,6 @@
 # Utils
+![Java](https://img.shields.io/badge/Java-21-blue)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 
 This package contains utilities.
 
@@ -8,8 +10,8 @@ Add the dependency below to your `pom.xml`:
 
 ```xml
 <dependency>
-    <groupId>com.sysnormal.libs</groupId>
-    <artifactId>utils</artifactId>
+    <groupId>com.sysnormal.commons.core</groupId>
+    <artifactId>utils-core</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 </dependency>
 ```
@@ -19,7 +21,7 @@ Add the dependency below to your `pom.xml`:
 To get started locally:
 
 ```bash
-git clone https://github.com/sysnormal1/java-utils.git
+git clone https://github.com/sysnormal1/utils-core.git
 ```
 
 ## 🔧 Build and Local Test
@@ -42,3 +44,10 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 GitHub: [@aalencarvz1](https://github.com/aalencarvz1)
 
 ---
+## 👤 Organization
+
+**Sysnormal**  
+GitHub: [@sysnormal1](https://github.com/sysnormal1)
+
+---
+

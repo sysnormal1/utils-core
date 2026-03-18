@@ -1,4 +1,4 @@
-package com.sysnormal.libs.utils;
+package com.sysnormal.commons.core.utils_core;
 
 public final class Constants {
     private Constants() {}
@@ -56,7 +56,7 @@ public final class Constants {
             public static final class AUTO {
                 private AUTO(){};
 
-                public static final String PROPERTY = org.hibernate.cfg.AvailableSettings.HBM2DDL_AUTO;
+                //public static final String PROPERTY = org.hibernate.cfg.AvailableSettings.HBM2DDL_AUTO;
                 public static final class VALUES {
                     private VALUES() {}
                     @Deprecated(since = "Spring Boot 4+", forRemoval = false)
@@ -118,7 +118,7 @@ public final class Constants {
                     private DATABASE(){};
 
                     public static final class ACTION {
-                        public static final String PROPERTY = org.hibernate.cfg.AvailableSettings.JAKARTA_HBM2DDL_DATABASE_ACTION;
+                        //public static final String PROPERTY = org.hibernate.cfg.AvailableSettings.JAKARTA_HBM2DDL_DATABASE_ACTION;
 
                         public static final class VALUES {
                             private VALUES() {}
