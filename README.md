@@ -1,4 +1,5 @@
 # Utils
+![Version](https://img.shields.io/badge/maven--central-0.0.1--SNAPSHOT-orange)
 ![Java](https://img.shields.io/badge/Java-21-blue)
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 
@@ -10,7 +11,7 @@ Add the dependency below to your `pom.xml`:
 
 ```xml
 <dependency>
-    <groupId>com.sysnormal.commons.core</groupId>
+    <groupId>io.github.sysnormal1.commons.core</groupId>
     <artifactId>utils-core</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 </dependency>
