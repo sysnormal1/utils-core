@@ -6,7 +6,7 @@
 	<!--<groupId>com.sysnormal.commons.core</groupId>-->
     <groupId>io.github.sysnormal1.commons.core</groupId>
 	<artifactId>utils-core</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>utils-core</name>
 
     <description>Common java utils library</description>
@@ -83,7 +83,7 @@
         <dependency>
             <groupId>io.github.sysnormal1.commons.core</groupId>
             <artifactId>default-data-swap-core</artifactId>
-            <version>0.0.3-SNAPSHOT</version>
+            <version>0.0.3</version>
             <optional>true</optional>
         </dependency>
 	</dependencies>
