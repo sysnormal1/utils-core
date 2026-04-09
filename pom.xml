@@ -6,7 +6,7 @@
 	<!--<groupId>com.sysnormal.commons.core</groupId>-->
     <groupId>io.github.sysnormal1.commons.core</groupId>
 	<artifactId>utils-core</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<name>utils-core</name>
 
     <description>Common java utils library</description>
@@ -61,15 +61,13 @@
             <groupId>org.reflections</groupId>
             <artifactId>reflections</artifactId>
             <version>0.10.2</version>
-            <optional>true</optional>
         </dependency>
 
         <!-- Source: https://mvnrepository.com/artifact/tools.jackson.core/jackson-databind -->
         <dependency>
             <groupId>tools.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
-            <version>3.1.0</version>
-            <optional>true</optional>
+            <version>3.1.1</version>
         </dependency>
 
         <!-- Source: https://mvnrepository.com/artifact/org.projectlombok/lombok -->
@@ -84,7 +82,6 @@
             <groupId>io.github.sysnormal1.commons.core</groupId>
             <artifactId>default-data-swap-core</artifactId>
             <version>0.0.3</version>
-            <optional>true</optional>
         </dependency>
 	</dependencies>
 
